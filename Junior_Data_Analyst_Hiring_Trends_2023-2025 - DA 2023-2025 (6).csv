@@ -1,0 +1,39 @@
+Company_Name,Job_Title,Experience,Industry_Type,Skills,Avg_Salary_2023(LPA),Job_Openings_2023,Avg_Retention_Rate(2023),Avg_Salary_2024(LPA),Job_Openings_2024,Avg_Retention_Rate(2024),Avg_Salary_2025(LPA),Job_Openings_2025,Avg_Retention_Rate(2025),Top_Hiring_Region(2023-2025)
+Google India,Junior Data Analyst,0-1 year,Tech / Internet / Product-based,"SQL,Google sheets,Tableau,Python,R",12.00,12.00,92.00%,12.60,15.00,93.00%,13.20,18.00,94.00%,"Bangalore,Hyderabad"
+Microsoft,Junior Data Analyst,Fresher,Tech / Software / Product-based,"SQL,Excel,Power BI,Python or R",12.50,11.00,90.00%,13.00,14.00,91.00%,13.70,16.00,92.00%,"Hyderabad,Bangalore"
+IBM India,Junior Data Analyst,1 year,IT Services / Consulting,"SQL,Excel,Power BI,Python,R",5.50,45.00,78.00%,5.80,50.00,80.00%,6.20,55.00,82.00%,"Bangalore,Pune,Hyderabad"
+Netflix,Junior Data Analyst,Fresher,Media / Entertainment / Tech,"Python,SQL,R,Tableau,A/B Testing",14.00,4.00,88.00%,14.70,5.00,89.00%,15.50,6.00,90.00%,Mumbai
+TCS,Junior Data Analyst,0-1 year,IT Services / Consulting,"SQL,Excel,Python,Power BI",4.00,220.00,65.00%,4.20,250.00,68.00%,4.50,280.00,70.00%,"Bangalore,Pune,Chennai,Hyderabad"
+Vedantu,Junior Data Analyst,0-1 year,EdTech / E-learning,"Excel,SQL,Tableau,Python or R",5.00,18.00,62.00%,5.30,20.00,64.00%,5.60,22.00,66.00%,Bangalore
+JP Morgan Chase & Co.,Junior Data Analyst, 1 year,Banking / Financial Services,"SQL,Excel,Python or R,Power BI",9.00,28.00,87.00%,9.40,30.00,88.00%,9.90,35.00,89.00%,"Mumbai,Bangalore"
+Infosys,Junior Data Analyst,0-1 year,IT Services / Consulting,"SQL,Excel,Python,Tableau",4.20,180.00,68.00%,4.40,200.00,70.00%,4.70,230.00,72.00%,"Mysore,Pune,Bangalore,Hyderabad"
+Lenskart,Junior Data Analyst,0-1 year,E-commerce / Retail / D2C,"Python,SQL,R,Tableau,Google sheets",5.00,13.00,74.00%,5.30,15.00,75.00%,5.60,17.00,77.00%,"Gurgaon,Bangalore"
+Fractal Analytics,Junior Data Analyst,Fresher,Data Analytics / Consulting,"SQL,Python,Tableau,Excel",7.00,35.00,83.00%,7.40,38.00,84.00%,7.60,42.00,86.00%,"Mumbai,Bangalore"
+Wipro,Junior Data Analyst,1 year,IT Services / Consulting,"SQL,Excel,Power BI,Statistics",4.00,130.00,66.00%,4.20,150.00,68.00%,4.50,170.00,70.00%,"Bangalore,Pune,Hyderabad"
+American Express,Junior Data Analyst,0-1 year,Financial Services / Payments,"Python/R,SQL,Google sheets,Tableau",8.00,22.00,85.00%,8.40,25.00,86.00%,8.90,28.00,87.00%,"Gurgaon,Bangalore"
+Deloitte,Junior Data Analyst,0-1 year,Consulting / Audit / Professional Services,"SQL,Excel,Tableau,Python",7.00,45.00,81.00%,7.30,50.00,82.00%,7.80,55.00,84.00%,"Hyderabad,Bangalore,Mumbai"
+Dr. Reddy's,Junior Data Analyst,0-1 year,Pharmaceuticals / Healthcare,"SQL,Google sheets,Power BI,Python,R",5.50,10.00,79.00%,5.80,12.00,80.00%,6.20,14.00,81.00%,"Hyderabad,Vizag"
+Ola,Junior Data Analyst,0-1 year,Mobility / Transportation / Tech,"Python,SQL,Google sheets,Tableau",6.00,14.00,70.00%,6.30,16.00,72.00%,6.60,18.00,74.00%,Bangalore
+Accenture,Junior Data Analyst,0-1 year,IT Services / Consulting / Strategy,"Python,SQL,Power BI,Excel",5.50,110.00,72.00%,5.80,125.00,74.00%,6.20,140.00,76.00%,"Bangalore,Pune,Hyderabad,Chennai"
+HDFC Bank,Junior Data Analyst,Fresher,Banking / Financial Services,"SQL,Power BI,Excel",4.50,28.00,75.00%,4.80,30.00,76.00%,5.10,35.00,78.00%,"Mumbai,Pune"
+KPMG India,Junior Data Analyst,0-1 year,Consulting / Audit / Advisory,"Excel,SQL,Tableau,Python or R",6.00,23.00,79.00%,6.30,26.00,80.00%,6.70,30.00,82.00%,"Mumbai,Bangalore"
+Flipkart,Junior Data Analyst,1 year,E-commerce / Tech,"Python/R,SQL,Excel,ETL",8.00,17.00,78.00%,8.50,19.00,80.00%,9.00,22.00,82.00%,Bangalore
+Genpact,Junior Data Analyst,0-1 year,ITES / BPO / Data Operations,"SQL,R,Tableau,Data Transformation",4.00,90.00,68.00%,4.20,100.00,70.00%,4.50,110.00,72.00%,"Hyderabad,Noida,Bangalore"
+Zomato,Junior Data Analyst,Fresher,FoodTech / Delivery / E-commerce,"Python,SQL,Power BI",6.00,14.00,66.00%,6.30,16.00,68.00%,6.60,18.00,70.00%,"Gurgaon,Bangalore"
+Capgemini,Junior Data Analyst,0-1 year,IT Services / Consulting,"Python,SQL,Power BI,Excel,ETL",4.00,110.00,69.00%,4.20,120.00,70.00%,4.50,130.00,72.00%,"Mumbai,Pune,Bangalore,Hyderabad"
+BYJU'S,Junior Data Analyst,0-1 year,EdTech / E-learning,"SQL,Excel,Python or R,Power BI",5.50,22.00,60.00%,5.80,24.00,62.00%,6.10,26.00,64.00%,Bangalore
+ICICI Bank,Junior Data Analyst,1 year,Banking / Financial Services,"SQL,Reporting,Excel",4.50,32.00,73.00%,4.80,35.00,74.00%,5.10,38.00,75.00%,"Mumbai,Hyderabad"
+EY,Junior Data Analyst,0-1 year,Consulting / Audit / Tax Advisory,"Python,SQL,Power BI,Excel",7.00,28.00,82.00%,7.40,30.00,84.00%,7.90,34.00,86.00%,"Mumbai,Gurgaon,Bangalore"
+Swiggy,Junior Data Analyst,0-1 year,FoodTech / Delivery,"Python,SQL,Tableau",5.50,18.00,67.00%,5.80,20.00,69.00%,6.10,22.00,71.00%,"Bangalore,Hyderabad"
+Cipla,Junior Data Analyst,0-1 year,Pharmaceuticals / Healthcare,"SQL,Google sheets,R,Data Cleaning",5.00,11.00,76.00%,5.30,13.00,77.00%,5.60,15.00,79.00%,"Mumbai,Pune"
+Tiger Analytics,Junior Data Analyst,0-1 year,Data Analytics / AI / Consulting,"SQL,Python,Tableau,Excel",7.50,12.00,85.00%,7.90,14.00,86.00%,8.30,16.00,88.00%,"Chennai,Bangalore"
+Paytm,Junior Data Analyst,1 year,FinTech / Payments / E-commerce,"Python,SQL,Visualisation",6.00,15.00,70.00%,6.30,18.00,72.00%,6.70,20.00,74.00%,"Noida,Bangalore"
+Meesho,Junior Data Analyst,Fresher,E-commerce / Social Commerce,"Python,SQL,Excel",6.00,11.00,74.00%,6.30,13.00,75.00%,6.70,15.00,76.00%,Bangalore
+Amazon,Junior Data Analyst,Fresher,E-commerce / Tech / Cloud,"Python,SQL,Excel,Machine Learning",12.00,24.00,89.00%,12.60,26.00,90.00%,13.30,30.00,91.00%,"Hyderabad,Bangalore"
+Mu Sigma,Junior Data Analyst,0-1 year,Data Analytics / Decision Sciences,"Excel,SQL,Tableau,Python or R",4.20,55.00,65.00%,4.40,60.00,66.00%,4.70,65.00,68.00%,Bangalore
+HSBC,Junior Data Analyst,0-1 year,Banking / Financial Services,"SQL,Excel,Python or R,Power BI",6.50,13.00,80.00%,6.80,15.00,81.00%,7.20,18.00,83.00%,"Pune,Bangalore"
+PhonePe,Junior Data Analyst,0-1 year,FinTech / Payments,"Google sheets,SQL,Python,Tableau",7.00,14.00,76.00%,7.30,16.00,78.00%,7.70,18.00,80.00%,Bangalore
+Unacademy,Junior Data Analyst,0-1 year,EdTech / E-learning,"SQL,Excel,Python or R,Power BI",5.50,11.00,68.00%,5.80,12.00,70.00%,6.10,14.00,72.00%,"Bangalore,Hyderabad"
+Nykaa,Junior Data Analyst,Fresher,E-commerce / Beauty & Wellness,"Python or R,SQL,Excel,Big Data",5.00,9.00,72.00%,5.30,11.00,74.00%,5.60,13.00,75.00%,Mumbai
+Axis Bank,Junior Data Analyst,0-1 year,Banking / Financial Services,"SQL,Google sheets,R,Data Visualisation",4.20,22.00,74.00%,4.50,25.00,75.00%,4.80,28.00,77.00%,"Mumbai,Pune"
+LatentView Analytics,Junior Data Analyst,Fresher,Data Analytics / Consulting,"Data wranglig,SQL,Excel,Python,Tableau",6.50,26.00,84.00%,6.80,30.00,85.00%,7.20,35.00,87.00%,"Chennai,Bangalore"
