@@ -1,9 +1,9 @@
-# 📝 "Junior Data Analysts Portfolio Project"
-### Analysis of Job Market, Top Skills, Salary Trends and Retention for Junior Data Analysts in India from 2023 to 2025.
+# 📝 "Junior Data Analyst Portfolio Project"
+### Analysis of Job Market, Top Skills, Salary Trends and Retention for Junior Data Analyst in India from 2023 to 2025.
 ## 1. 🌐 Executive Summary / Overview
 #### Through an interactive dashboard, this project analyzes the junior data analyst job market, including top hiring companies, regions, in-demand skills, salary trends, and retention patterns. The goal is to provide actionable insights for job seekers and employers.
 ## 2. 🎯 Objective
- - Identify top companies hiring junior data analysts
+ - Identify top companies hiring junior data analyst
  - Most active hiring regions
  - Sector wise analyses
  - Understand the most in-demand skills
@@ -14,7 +14,7 @@
 ## 4. 📁 Dataset
 🔗  [ View Dataset ](https://github.com/Shubhangi04673/JuniorDataAnalystsProject/blob/main/Junior_Data_Analyst_Hiring_Trends_2023-2025%20-%20DA%202023-2025%20(6).csv)
 ## 5. 🔍 Data Sources
-#### ~ **Primary Dataet** : A synthetic dataset was created to stimulate the Junior Data Analysts job market, specifically for portfolio and learning purposes. It was generated with the assistance of OpenAI.
+#### ~ **Primary Dataet** : A synthetic dataset was created to stimulate the Junior Data Analyst job market, specifically for portfolio and learning purposes. It was generated with the assistance of OpenAI.
 #### ~ **Data Fields** : It includes information on :
 - **Job Titles and Skills** - technical and business skills required for analysis.
 - **Salary Information** - compensation ranges and yearly trends.
@@ -48,7 +48,7 @@
 - Job demand are concentrated in metro hubs such as Bangalore, Hyderabad, and Pune, offering both higher salaries and job density.
 - Non-metro regions show emerging openings but generally offer lower salary ranges compared to metro cities.
 #### 3. 🏢 Company-wise Job Openings
-- Larger IT and consulting firms dominate the hiring landscape, accounting for the majority of junior data analysts openings.
+- Larger IT and consulting firms dominate the hiring landscape, accounting for the majority of junior data analyst openings.
 - Startups and mid-sized companies are emerging as strong recruiters, expanding opportunities across industries. 
 ### 📷 Dashboard 2 : Workforce Insights
 #### ~ 🎯 Purpose
