@@ -9,8 +9,10 @@
  - Undertand the most in-demand skills
  - Analyze salary trends across regions/roles
  - Examine retention trends
+## Interactive Dashboard
+[ View Dashboard Here ](https://public.tableau.com/views/JuniorDataAnalystsMarketAnalysis/Dashboard1)
 ## 3. Dataset
-
+[View Dataset(
 ## 4. Data Sources
 #### ~ **Primary Dataet** : A synthetic dataset was created to stimulate the Indian job market for Junior Data Analysts, designed specifically for portfolio and learning purposes. The dataset was generated with the assistance of OpenAI.
 #### ~ **Data Fields** : It includes information on :
