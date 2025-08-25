@@ -12,7 +12,7 @@
 ## 3. 📷 Interactive Dashboard
 🔗  [ View Dashboard ](https://public.tableau.com/views/JuniorDataAnalystsMarketAnalysis/Dashboard1)
 ## 4. 📁 Dataset
-🔗  [ View Dataset ](https://github.com/Shubhangi04673/JuniorDataAnalystsProject/blob/main/Junior_Data_Analyst_Hiring_Trends_2023-2025%20-%20DA%202023-2025%20(6).csv)
+🔗  [ Download CSV ](https://raw.githubusercontent.com/Shubhangi04673/JuniorDataAnalystsProject/refs/heads/main/Junior_Data_Analyst_Hiring_Trends_2023-2025%20-%20DA%202023-2025%20(6).csv) to view in Excel, Google Sheets, or any spreadsheet application.
 ## 5. 🔍 Data Sources
 #### ~ **Primary Dataet** : A synthetic dataset was created to stimulate the Junior Data Analyst job market, specifically for portfolio and learning purposes. It was generated with the assistance of OpenAI.
 #### ~ **Data Fields** : It includes information on :
